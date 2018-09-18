@@ -1,0 +1,3 @@
+/Users/yc/CLionProjects/P1993 小K的农场/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yc/CLionProjects/P1993 小K的农场/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yc/CLionProjects/P1993 小K的农场/cmake-build-debug/CMakeFiles/P1993_K.dir

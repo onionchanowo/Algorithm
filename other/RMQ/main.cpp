@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <cassert>
 using namespace std;
 
 int rmqMax(int a, int b){ return max(a, b); }
@@ -63,6 +64,7 @@ int main(){
     while(n --){
         int l, r;
         cin >> l >> r;
+        assert(l >= 0 && r < v.size());
         cout << rmq.query(l, r) << endl;
     }
 
